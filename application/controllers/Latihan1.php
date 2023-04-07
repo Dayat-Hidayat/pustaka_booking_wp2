@@ -5,7 +5,7 @@ class Latihan1 extends CI_Controller
     public function index()
     {
         echo "<center><h1>Ilmu Komputer</h1>
-        Halo Nama saya Mohamad Rizky Hidayat,";
+        Halo Nama saya Mohamad Rizky Hidayat, AWOKAWOKAWOAOK";
         echo " Saya kuliah jurusan ilmu komputer.";
         echo " Sekarang sudah semester 4 dan ini adalah mata kuliah Web Programming 2";
     }
